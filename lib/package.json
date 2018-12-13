@@ -1,5 +1,5 @@
 {
-  "name": "react-navigation-fluid-transitions",
+  "name": "@velocissimo/react-navigation-fluid-transitions",
   "version": "0.2.73",
   "description": "An extension to react-navigation providing transitions and shared element transitions.",
   "main": "./index.js",
